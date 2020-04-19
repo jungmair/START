@@ -1,0 +1,13 @@
+#pragma once
+#include <cstring>
+#include <cstdint>
+#include <map>
+//simplify includes
+#include "node.tcc"
+#include "standard/node4.tcc"
+#include "standard/node16.tcc"
+#include "standard/node48.tcc"
+#include "standard/node256.tcc"
+#include "rewired/rewired16m.tcc"
+#include "rewired/rewired64k.tcc"
+#include "simple/multi_node4.tcc"
